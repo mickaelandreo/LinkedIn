@@ -4,7 +4,7 @@ Linkedin = {
         actionDelay: 5000,
         nextPageDelay: 5000,
         // set to -1 for no limit
-        maxRequests: -1,
+        maxRequests: 50,
         totalRequestsSent: 0,
         // set to true to add note in invites
         addNote: true,
